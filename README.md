@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - GitHub Repo URL: [GitHub Repo URL](https://github.com/KrishnaPoddar1/SignUpForm.git)
-- Live Site URL: [Live site URL](https://krishnapoddar1.github.io/SignUpForm/)
+- Live Site URL: [Live site URL](http://KrishnaPoddar1.github.io/SignUpForm)
 
 ## My process
 
