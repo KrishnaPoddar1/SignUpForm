@@ -1,0 +1,20 @@
+{
+  "name": "intro-component-with-signup-form-master",
+  "version": "1.0.0",
+  "description": "SignUp Form using React",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "author": "Krishna",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.12.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
